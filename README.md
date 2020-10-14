@@ -1,4 +1,4 @@
-# axco15.github.io]
+# jeremiahruvalcaba.github.io
 
 This is going to be my formal website where I store all my projects
 
