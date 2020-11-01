@@ -8,4 +8,3 @@ my skill set is diverse but yet unique.
 
 I enjoy problem solving and coming up with new ideas 
 
-being stratigic and invoative what makes me unique.
