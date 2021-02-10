@@ -2,22 +2,37 @@ body,h1,h2,h3,h4,h5 {
     font-family: "Poppins", sans-serif;
     text-align: center;
 }
-body {
-    font-size:16px;
-}
 
-nav {
+nav, ul, li {
     text-align: center;
+    display: inline-block;
+    justify-content: center;
+    padding: 5px;
+    background: red;
+    color: white
 
 }
-
 
 div{
     text-align: center;
+    font-size:14px;
+
+}
+
+div.experience {
+   
+    display: inline-block;
+   text-align: center;
+    padding: 5px;
+    background: red;
+    color: white
 }
 
 
 
+
+
+/* 
 .w3-half img{
     margin-bottom:-6px;
     margin-top:16px;
@@ -27,3 +42,4 @@ div{
 .w3-half img:hover{
     opacity:1;
 }
+*/
