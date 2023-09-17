@@ -1,45 +1,23 @@
-body,h1,h2,h3,h4,h5 {
-    font-family: "Poppins", sans-serif;
-    text-align: center;
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
 }
 
-nav, ul, li {
-    text-align: center;
-    display: inline-block;
-    justify-content: center;
-    padding: 5px;
-    background: red;
-    color: white
-
+h1 {
+    font-size: 24px;
 }
 
-div{
-    text-align: center;
-    font-size:14px;
-
+h2 {
+    font-size: 20px;
 }
 
-div.experience {
-   
-    display: inline-block;
-   text-align: center;
-    padding: 5px;
-    background: red;
-    color: white
+p {
+    margin: 0;
 }
 
-
-
-
-
-/* 
-.w3-half img{
-    margin-bottom:-6px;
-    margin-top:16px;
-    opacity:0.8;
-    cursor:pointer;
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
 }
-.w3-half img:hover{
-    opacity:1;
-}
-*/
